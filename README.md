@@ -1,9 +1,5 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-  *{
-    font-family: "Lato", sans-serif;
-  }
-</style>
+
 
 <h1 align="center">Hi, myself, Bitto Saha</h1>
 <h3 align="center">passionate software programmer</h3>
